@@ -63,7 +63,7 @@ include("payment_options.php");
 include("includes/footer.php");
 
 ?>
-
+<!-- javascript part-->
 <script src="js/jquery.min.js"> </script>
 
 <script src="js/bootstrap.min.js"></script>
