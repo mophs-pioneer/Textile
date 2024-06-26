@@ -126,7 +126,7 @@ echo "<option> $enquiry_title </option>";
 
 <button type="submit" name="submit" class="btn btn-primary">
 
-<i class="fa fa-user-md"></i> Send Message
+<i class="fa fa-user-md"></i> Send Message now
 
 </button>
 
