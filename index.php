@@ -18,7 +18,7 @@ include("includes/main.php");
     </div>
     <!-- Main -->
     <div class="wrapper">
-            <h1>Featured HARVEST<h1>
+            <h1>Featured Products<h1>
             
       </div>
 
@@ -158,15 +158,15 @@ include("includes/main.php");
         <div class="container clearfix">
 
           <div class="copyright">
-            &copy; <?php echo date("Y");?> COFFEE TAPE &trade;
+            &copy; <?php echo date("Y");?> Cloth TAPE &trade;
           </div>
 
           <div class="developer">
-            Developed by Austin kioko
+            Developed by Philip 
           </div>
 
           <div class="designby">
-            Design by Austin kioko
+            Design by Philip 
           </div>
 
         </div>

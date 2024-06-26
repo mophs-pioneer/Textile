@@ -82,7 +82,7 @@
 				</div>
 				<div class="email">
 					Email:
-					<a href="mailto:support@yourwebsite.com" class="email__addr">support@yourwebsite.com</a>
+					<a href="mailto:support@mophstextile.com" class="email__addr">support@mophstextile.com</a>
 				</div>
 			</div>
 
@@ -118,7 +118,7 @@
 		<div class="container clearfix">
 
 			<div class="copyright">
-				&copy; 2024 cofffe tape &trade;
+				&copy; 2024 cloth tape &trade;
 			</div>
 
 			<div class="developer">

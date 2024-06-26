@@ -68,7 +68,7 @@ $order_id = $_GET['order_id'];
 
 <option>Select Payment Mode</option>
 <option>Bank Code</option>
-<option>UBL/Omni</option>
+<option>Mpesa</option>
 <option>Western Union</option>
 
 </select><!-- select Ends -->
@@ -173,7 +173,7 @@ echo "<script>window.open('my_account.php?my_orders','_self')</script>";
 
 <?php
 
-include("includes/footer.php");
+/* include("includes/footer.php");**/
 
 ?>
 

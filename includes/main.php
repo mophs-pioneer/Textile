@@ -74,12 +74,12 @@ if(!isset($_SESSION['customer_email'])){
         <nav class="main-nav">
           <ul class="categories">
 
-            <li class="categories__item">
+           <!-- <li class="categories__item">
               <a class="categories__link" href="BID.html">
            BID
                
               </a>
-              </li>
+              </li>-->
 
             <li class="categories__item">
               <a class="categories__link" href="localstore.php">
